@@ -1,0 +1,9 @@
+{
+  "ale": { "branch": "master", "commit": "48d73c87c3c321e6298755abc5449267192d07e6" },
+  "glslView-nvim": { "branch": "master", "commit": "2ad41cef51e658a0de1685728a950dd8c13788fd" },
+  "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
+  "markdown-preview.nvim": { "branch": "master", "commit": "a923f5fc5ba36a3b17e289dc35dc17f66d0548ee" },
+  "nvim-autopairs": { "branch": "master", "commit": "e38c5d837e755ce186ae51d2c48e1b387c4425c6" },
+  "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "telescope.nvim": { "branch": "master", "commit": "3b1600d0fd5172ad9fae00987362ca0ef3d8895d" }
+}
